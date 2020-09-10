@@ -7,3 +7,21 @@ h3 {
     font-family: Georgia;
     text-align: center;
 }
+a {
+    text-decoration: none;
+}
+.you {
+    text-transform: capitalize;
+}
+.might {
+    text-transform: capitalize;
+}
+.also {
+    text-transform: capitalize;
+}
+.like {
+    text-transform: capitalize;
+}
+a:hover {
+    text-decoration: underline;
+}
