@@ -1,5 +1,5 @@
 h2 {
-    color: dark green;
+    color: darkgreen;
     font-family: Georgia;
     text-align: center;
 }
@@ -17,7 +17,8 @@ a {
     text-transform: capitalize;
 }
 .also {
-    text-transform: capitalize;
+    
+    text-transform: uppercase;
 }
 .like {
     text-transform: capitalize;

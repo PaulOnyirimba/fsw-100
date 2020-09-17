@@ -1,5 +1,31 @@
 .nav-bar{
-    position: fixed
-    width: 100%
+    position: fixed;
+    width: 100%;
+    background-color: darkkhaki;
+    height: 50px;
 }
-.
+.lion{
+    float: left;
+    margin-right: 15px;
+}
+.space-1{
+    padding-top: 50px;
+    float: left;
+}
+.dogs{
+    float: left;
+    margin-right: 15px;
+}
+.space-2{
+    float: left;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+.chinese-restaurant{
+    float: left;
+    margin-right: 15px;
+}
+.space-3{
+    float: left;
+
+}
