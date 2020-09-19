@@ -1,0 +1,15 @@
+.space-1{
+    float: left;
+    margin-right: 15px;
+}
+table, th, td, tr{
+    border: 1px solid black;
+}
+.space-2{
+    padding-bottom: 50px;
+}
+.trees{
+    float: left;
+    margin-right: 15px;
+    padding-bottom: 50px;
+}
