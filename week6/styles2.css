@@ -1,0 +1,11 @@
+#nav-bar {
+    position: fixed;
+    width: 100%;
+    background-color: darkkhaki;
+    height: 50px;
+}
+#grid-container {
+    background-color: lightseagreen;
+}
+table, th, td, tr{
+    border: 1px solid black;
