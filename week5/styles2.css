@@ -9,22 +9,27 @@ Body {
 #one {
     height: 50px;
     grid-column: 1/5;
+    background-color: powderblue;
 }
 #two {
     height: 50px;
     grid-column: 1/5;
+    background-color: red;
 }
 #three {
     height: 50px;
     grid-column: 1/5;
+    background-color: seashell;
 }
 #four {
     height: 50px;
     grid-column: 1/5;
+    background-color: silver;
 }
 #five {
     height: 50px;
     grid-column: 1/5;
+    background-color: yellow;
 }
 @media screen and (min-width: 500px) {
     #one {

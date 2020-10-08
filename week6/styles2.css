@@ -1,11 +1,52 @@
 #nav-bar {
     position: fixed;
     width: 100%;
-    background-color: darkkhaki;
+    background-color: lightgoldenrodyellow;
     height: 50px;
 }
 #grid-container {
-    background-color: lightseagreen;
+    
 }
 table, th, td, tr{
     border: 1px solid black;
+}
+#one {
+    height: 50px;
+    background-color: #F5C6D6;
+    grid-column: 1/4;
+}
+#body {
+    background-color: silver;
+}
+#two {
+    height: 50px;
+    background-color: mintcream;
+    grid-column: 1/4;
+}
+#three {
+    height: 50px;
+    background-color: peru;
+    grid-column: 1/4;
+}
+@media screen and (max-width: 768px) {
+    #one {
+       grid-column: 1/4 
+    }
+    #two {
+        grid-column: 1/4;
+    }
+    #three {
+        grid-column: 1/4;
+    }
+}
+@media screen and (min-width: 500px) {
+    #one {
+        grid-column: 1/4;
+    }
+    #two {
+        grid-column: 1/4;
+    }
+    #three {
+        grid-column: 1/4;
+    }
+}
